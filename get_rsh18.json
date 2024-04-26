@@ -13,6 +13,6 @@
 "g" : "yes",
 "h" : "no",
 "ads" : "yes",
-"myAds" : "yes",
-"myAdsTime" : 60
+"myAds" : "no",
+"myAdsTime" : 30
 }
